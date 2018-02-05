@@ -1,9 +1,9 @@
-		**How to using garphQL with laravel**
+			**How to using garphQL with laravel**
 
 1- in to your _composer.json_ in your laravel project, require this :
 	* {
-  "require": {
-    "folklore/graphql": "~1.0.0"
+  * "require": {
+   * "folklore/graphql": "~1.0.0"
   }
 }
 
