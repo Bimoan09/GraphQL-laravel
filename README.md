@@ -7,7 +7,7 @@ to what backend system is requested by frontend ,,
 
 some programming languages ​​that using familiar with GraphQL you can read in this document **http://graphql.org/code/#server-libraries**
 
-then you can be master using GraphQl and learn fun It with this documentation.. **http://graphql.org/learn/queries/**
+then you can be master using GraphQl and learn fun It with this documentation.. [GraphQL documentation](**http://graphql.org/learn/queries/**)
 
 
 
